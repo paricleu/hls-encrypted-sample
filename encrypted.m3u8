@@ -4,7 +4,7 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-KEY:METHOD=AES-128,URI="crypt.key"
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/mk0x9/hls-encrypted-sample/master/crypt.key"
 #EXTINF:10.000,
 segment.split.1.enc.ts
 #EXTINF:5.092,
